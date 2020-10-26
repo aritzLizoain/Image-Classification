@@ -32,27 +32,21 @@ Followed [Course](https://medium.com/intuitive-deep-learning/build-your-first-co
 </pre>
 
 <pre>
-<img src="https://github.com/aritzLizoain/CNN-Image-Segmentation/blob/master/Images/Example_Images/Accuracy.png" width="400"/>           <img src="https://github.com/aritzLizoain/CNN-Image-Segmentation/blob/master/Images/Example_Images/Loss.png" width="400"/> 
+<img src="https://github.com/aritzLizoain/Image-Recognition/blob/main/Images/My_images/my_image_2.jpg" height="200"/>           <img src="https://github.com/aritzLizoain/Image-Recognition/blob/main/Images/Outputs/my_image_2_prediction.png" height="200"/> 
 </pre>
 
 <pre>
-<img src="https://github.com/aritzLizoain/CNN-Image-Segmentation/blob/master/Images/Example_Images/Accuracy.png" width="400"/>           <img src="https://github.com/aritzLizoain/CNN-Image-Segmentation/blob/master/Images/Example_Images/Loss.png" width="400"/> 
+<img src="https://github.com/aritzLizoain/Image-Recognition/blob/main/Images/My_images/my_image_3.jpg" height="200"/>           <img src="https://github.com/aritzLizoain/Image-Recognition/blob/main/Images/Outputs/my_image_3_prediction.png" height="200"/> 
 </pre>
 
 <pre>
-<img src="https://github.com/aritzLizoain/CNN-Image-Segmentation/blob/master/Images/Example_Images/Accuracy.png" width="400"/>           <img src="https://github.com/aritzLizoain/CNN-Image-Segmentation/blob/master/Images/Example_Images/Loss.png" width="400"/> 
+<img src="https://github.com/aritzLizoain/Image-Recognition/blob/main/Images/My_images/my_image_4.jpg" height="200"/>           <img src="https://github.com/aritzLizoain/Image-Recognition/blob/main/Images/Outputs/my_image_4_prediction.png" height="200"/> 
 </pre>
 
 <pre>
-<img src="https://github.com/aritzLizoain/CNN-Image-Segmentation/blob/master/Images/Example_Images/Accuracy.png" width="400"/>           <img src="https://github.com/aritzLizoain/CNN-Image-Segmentation/blob/master/Images/Example_Images/Loss.png" width="400"/> 
+<img src="https://github.com/aritzLizoain/Image-Recognition/blob/main/Images/My_images/my_image_5.jpg" height="200"/>           <img src="https://github.com/aritzLizoain/Image-Recognition/blob/main/Images/Outputs/my_image_5_prediction.png" height="200"/> 
 </pre>
 
 <pre>
-<img src="https://github.com/aritzLizoain/CNN-Image-Segmentation/blob/master/Images/Example_Images/Accuracy.png" width="400"/>           <img src="https://github.com/aritzLizoain/CNN-Image-Segmentation/blob/master/Images/Example_Images/Loss.png" width="400"/> 
-</pre>
-
-
-
-
-
- 
+<img src="https://github.com/aritzLizoain/Image-Recognition/blob/main/Images/My_images/my_image_6.jpg" height="200"/>           <img src="https://github.com/aritzLizoain/Image-Recognition/blob/main/Images/Outputs/my_image_6_prediction.png" height="200"/> 
+</pre> 
