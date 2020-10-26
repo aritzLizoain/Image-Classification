@@ -7,7 +7,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/aritzLizoain/Image-Recognition?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/aritzLizoain/Image-Recognition?style=social)
 
-Image recognition implementation with Keras. A CNN is built and trained with the CIFAR-10 dataset. Two models are trained: one without data-augmentation (77.25% accuracy) and the other with data-augmentation (78.04% accuracy). Process:
+Image recognition implementation with **Keras**. A **CNN** is built and trained with the **CIFAR-10** dataset. Two models are trained: one without data-augmentation (77.25% accuracy) and the other with data-augmentation (78.04% accuracy). Process:
 
 ``` image_recognition.py ```
 * Data processing: one-hot encoding and scaling
