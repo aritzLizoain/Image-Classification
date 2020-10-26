@@ -27,6 +27,8 @@ Followed [Course](https://medium.com/intuitive-deep-learning/build-your-first-co
 
 ## Predicting on my own images
 
+Some are correct :heavy_check_mark: some are not :x:
+
 <pre>
 <img src="https://github.com/aritzLizoain/Image-Recognition/blob/main/Images/My_images/my_image_1.jpg" height="200"/>           <img src="https://github.com/aritzLizoain/Image-Recognition/blob/main/Images/Outputs/my_image_1_prediction.png" height="200"/> 
 </pre>
