@@ -1,4 +1,4 @@
-# Image Recognition
+# Image Classification
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tensorflow)
 ![GitHub last commit](https://img.shields.io/github/last-commit/aritzLizoain/Image-Recognition)
