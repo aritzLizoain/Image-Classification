@@ -69,7 +69,6 @@ plt.title('Predicted '+str(number_to_class[predicted_classes_label[incorrect[ran
           ', correct '+str(number_to_class[y_test_label[incorrect[random]]]))
 plt.tight_layout()
 
-
 #Classification report sklearn.metrics.classification_report
 #Will help identifiying the misclassified classes in more detail. 
 #Able to observe for which class the model performed better or worse.
