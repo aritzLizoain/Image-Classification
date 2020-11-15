@@ -1,12 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr  1 19:01:39 2020
+//////////////////////////////////////////////////////////////////////////////////////////
+// Original author(s): https://medium.com/intuitive-deep-learning/build-your-first-convolutional-neural-network-to-recognize-images-84b9c78fe0ce
+// Modified by: Aritz Lizoain
+// Github: https://github.com/aritzLizoain
+// My personal website: https://aritzlizoain.github.io/
+// Description: Image recognition with Keras (CIFAR-10 standard dataset)
+// Copyright 2020, Aritz Lizoain.
+// License: MIT License
+//////////////////////////////////////////////////////////////////////////////////////////
 
-@author: Aritz Lizoain
-
-Followed: https://medium.com/intuitive-deep-learning/build-your-first-convolutional-neural-network-to-recognize-images-84b9c78fe0ce
-
-Image recognition with Keras (CIFAR-10 standard dataset)
 1) Data processing: one-hot encoding and scaling
 2) Building and training the CNN
 3) Training the model

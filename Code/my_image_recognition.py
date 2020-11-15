@@ -1,21 +1,23 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Apr  2 17:25:36 2020
-
-@author: Aritz Lizoain
-
-Followed: https://medium.com/intuitive-deep-learning/build-your-first-convolutional-neural-network-to-recognize-images-84b9c78fe0ce
+//////////////////////////////////////////////////////////////////////////////////////////
+// Original author(s): https://medium.com/intuitive-deep-learning/build-your-first-convolutional-neural-network-to-recognize-images-84b9c78fe0ce
+// Modified by: Aritz Lizoain
+// Github: https://github.com/aritzLizoain
+// My personal website: https://aritzlizoain.github.io/
+// Description: Image recognition with Keras (CIFAR-10 standard dataset)
+// Copyright 2020, Aritz Lizoain.
+// License: MIT License
+//////////////////////////////////////////////////////////////////////////////////////////
 
 Two trained models:
     *my_cifar10_model : original model. 77.25% accuracy on the test set.
     *my_cifar10_model2_augmented : model trained after applying data augmentation.
      78.04% accuracy on the test set.
-
 1) Loading a trained model
 2) Predicting on the test set
 3) Evaluation of the predictions
 4) Predicting on OWN IMAGES
-
 """
 
 from keras.models import load_model #loading the model
